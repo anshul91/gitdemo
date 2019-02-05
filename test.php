@@ -8,4 +8,5 @@ echo "checking diff command";
 echo "check for git stash";
 echo "here we are checking checkout command";
 echo "after stash this line added";
+echo "here in wchar_branch work";
 ?>
