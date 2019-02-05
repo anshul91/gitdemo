@@ -4,4 +4,5 @@ echo "i am here";
 echo "checking git show";
 echo "showing diff command";
 echo "added for amend";
+echo "after stash this line added";
 ?>
