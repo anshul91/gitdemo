@@ -9,4 +9,5 @@ echo "check for git stash";
 echo "here we are checking checkout command";
 echo "after stash this line added";
 echo "here in wchar_branch work";
+echo "in wchar_branch change done 1";
 ?>
